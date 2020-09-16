@@ -12,10 +12,6 @@ https://gerardosantana.com
 
 ![web page preview](https://github.com/GerardoSant/Personal-Website/blob/master/preview.gif)
 
-## License
-
-This project is licensed under the MIT License
-
 ## Acknowledgments
 
 * [David Miller](https://github.com/davidtmiller) for the template.
