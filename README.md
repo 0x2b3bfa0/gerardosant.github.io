@@ -1,11 +1,10 @@
-# Gerardo Santana - Personal Website 
+# [Gerardo Santana](https://gerardosantana.com)
 
-My personal website that works as resume/portfolio. You can check it out here:
-https://gerardosantana.com
+My personal portfolio / resume.
 
 ## Built with
 
-* [GitHub Pages](https://pages.github.com) - GitHub static web page server
+* [GitHub Pages](https://pages.github.com) - GitHub static page server
 * [Bootstrap](https://maven.apache.org/) -  CSS framework directed at responsive, mobile-first front-end web development
 
 ## Preview
