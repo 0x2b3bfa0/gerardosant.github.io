@@ -10,7 +10,7 @@ https://gerardosantana.com
 
 ## Preview
 
-![web page preview](https://github.com/GerardoSant/Personal-Website/blob/master/preview.gif)
+![web page preview](./preview.gif)
 
 ## Acknowledgments
 
